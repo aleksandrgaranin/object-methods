@@ -1,7 +1,7 @@
 const movieList = document.getElementById('movie-list');
 
 // movieList.style['background-color'] = 'green';
-movieList.style.display = 'block';
+// movieList.style.display = 'block';
 
 const userChosenKeyName = 'level';
 
